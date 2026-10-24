@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devansh Tiwari</h1>
-<h3 align="center">A passionate Java Backend developer from India</h3>
+<h3 align="center">A passionate Machine Larning Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshtiwari04&label=Profile%20views&color=0e75b6&style=flat" alt="devanshtiwari04" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Core Java, Springboot, Collection Framework**
+- 🌱 I’m currently working on  **Data analysos, Machine Learning**
 
-- 💬 Ask me about **Java, Springboot**
+- 💬 Ask me about **Python, EDA, Machine learning, Java**
 
 - 📫 How to reach me **devansh629913@gmail.com**
 
